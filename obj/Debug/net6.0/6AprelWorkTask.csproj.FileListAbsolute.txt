@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Downloads\6AprelWorkTask\bin\Debug\net6.0\6AprelWorkTask.exe
+C:\Users\ClassTime\Downloads\6AprelWorkTask\bin\Debug\net6.0\6AprelWorkTask.deps.json
+C:\Users\ClassTime\Downloads\6AprelWorkTask\bin\Debug\net6.0\6AprelWorkTask.runtimeconfig.json
+C:\Users\ClassTime\Downloads\6AprelWorkTask\bin\Debug\net6.0\6AprelWorkTask.dll
+C:\Users\ClassTime\Downloads\6AprelWorkTask\bin\Debug\net6.0\6AprelWorkTask.pdb
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.AssemblyInfo.cs
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.dll
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\refint\6AprelWorkTask.dll
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.pdb
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\6AprelWorkTask.genruntimeconfig.cache
+C:\Users\ClassTime\Downloads\6AprelWorkTask\obj\Debug\net6.0\ref\6AprelWorkTask.dll
